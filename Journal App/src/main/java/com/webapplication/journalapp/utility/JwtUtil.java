@@ -12,7 +12,7 @@ import java.util.HashMap;
 
 @Component
 public class JwtUtil {
- private String Secrect_key="Tsjg%E#nhsdG4332s@Ewuiro#$9443!#dfgf@e";
+ private String Secrect_key="";
  private SecretKey getSigningKey(){
      return Keys.hmacShaKeyFor(Secrect_key.getBytes());
  }
