@@ -1,9 +1,0 @@
-#spring:
-#  mongodb:
-#    uri: mongodb+srv://kushagrasrivastava870_db_user:EodVnWHDPc7ASl5k@cluster0.6yvgftq.mongodb.net/mydata?appName=Cluster0
-#    auto-index-creation: true
-#
-#server:
-#  port: 8081
-#  servlet:
-#    context-path: /journalApp
